@@ -1,0 +1,14 @@
+{
+  "name": "bi-bot",
+  "version": "1.0.0",
+  "description": "Bot de conexiones de rol para Discord - Xb Aurora",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
